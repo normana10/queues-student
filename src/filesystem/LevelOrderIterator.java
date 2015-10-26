@@ -22,7 +22,7 @@ public class LevelOrderIterator extends FileIterator<File> {
 		// TODO 1
 		
 		
-		
+		String t;
 		
 		String hi = "YO MAMA SO FAT";
 	}
