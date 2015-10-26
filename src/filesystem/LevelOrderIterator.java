@@ -21,7 +21,7 @@ public class LevelOrderIterator extends FileIterator<File> {
 	public LevelOrderIterator(File rootNode) throws FileNotFoundException {
 		// TODO 1
 		
-		
+		YO MAMA SO FAT;
 		
 		
 		
